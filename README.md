@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rameshjamgoudar
+- 👋 Hi, I’m Ramesh.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on what comes into my mind.
